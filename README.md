@@ -1,6 +1,6 @@
-# 🧠 Mental Health Analysis
+# Mental Health Analysis
 
-## 📊 Project Overview
+## Project Overview
 
 This project presents a comprehensive analysis of mental health data, utilizing Python for data preprocessing and Power BI for visualization. The goal is to uncover patterns and insights related to mental health issues, aiding in better understanding and awareness.
 
