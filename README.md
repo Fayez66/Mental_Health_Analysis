@@ -50,7 +50,7 @@ Data from [**Kaggle**](https://www.kaggle.com/datasets/ak0212/anxiety-and-depres
 
 ## Team Members
 - [**Fayez**](https://github.com/Fayez66)
-- [**Abdelrahman Mohamed**](https://github.com/Abdulrahman-MA)
+- [**Abdulrahman Mohamed**](https://github.com/Abdulrahman-MA)
 - [**Kerolos Fady**](https://github.com/Kero-fady)
 <!-- ## Documentation 
 [Documentation](Reports/Objectives.docx)
